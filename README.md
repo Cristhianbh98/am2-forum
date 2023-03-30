@@ -1,6 +1,6 @@
-# image_widget
+# Mobile Applications II - Forum
 
-A new Flutter project.
+A Flutter project.
 
 ## Getting Started
 
